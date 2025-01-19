@@ -1,1 +1,1 @@
-W celu uruchomienia wystarczy skopiować treść maina (uruchamia się też w internetowym kompilatorze), "open with visual studio" też działa. Pierwsze dwie prace które wysłałem są publiczne w moim repo, natomiast wymagają flaska.
+
